@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>train</folder>
+  <filename>0030.jpg</filename>
+  <path>/home/lixiongfeng/train/0030.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>703</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>chicken</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>350</xmin>
+      <ymin>40</ymin>
+      <xmax>905</xmax>
+      <ymax>581</ymax>
+    </bndbox>
+  </object>
+</annotation>

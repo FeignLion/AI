@@ -1,0 +1,6 @@
+classes= 1
+train  = /home/lixiongfeng/darknet/scripts/2007_train.txt
+//valid  = /home/lixiongfeng/2007_test.txt
+names = /home/lixiongfeng/darknet/data/voc.names
+backup = /home/lixiongfeng/darknet/backup
+
